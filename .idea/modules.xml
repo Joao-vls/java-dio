@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-collections/java-collections.iml" filepath="$PROJECT_DIR$/java-collections/java-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collections-list-operacoes-livro/java-collections-list-operacoes-livro.iml" filepath="$PROJECT_DIR$/java-collections-list-operacoes-livro/java-collections-list-operacoes-livro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collections-list-ordenacao/java-collections-list-ordenacao.iml" filepath="$PROJECT_DIR$/java-collections-list-ordenacao/java-collections-list-ordenacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collections-livro/java-collections-livro.iml" filepath="$PROJECT_DIR$/java-collections-livro/java-collections-livro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-dio.iml" filepath="$PROJECT_DIR$/.idea/java-dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-pilares-abstracao/java-pilares-abstracao.iml" filepath="$PROJECT_DIR$/java-pilares-abstracao/java-pilares-abstracao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-pilares-encapsulamento/java-pilares-encapsulamento.iml" filepath="$PROJECT_DIR$/java-pilares-encapsulamento/java-pilares-encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-pilares-heranca/java-pilares-heranca.iml" filepath="$PROJECT_DIR$/java-pilares-heranca/java-pilares-heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-pilares-interface/java-pilares-interface.iml" filepath="$PROJECT_DIR$/java-pilares-interface/java-pilares-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-pilares-polimorfismo/java-pilares-polimorfismo.iml" filepath="$PROJECT_DIR$/java-pilares-polimorfismo/java-pilares-polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-pilares-poo/java-pilares-poo.iml" filepath="$PROJECT_DIR$/java-pilares-poo/java-pilares-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-um/java-um.iml" filepath="$PROJECT_DIR$/java-um/java-um.iml" />
+    </modules>
+  </component>
+</project>
