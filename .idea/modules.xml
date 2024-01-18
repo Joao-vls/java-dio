@@ -6,6 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/java-collections-list-operacoes-livro/java-collections-list-operacoes-livro.iml" filepath="$PROJECT_DIR$/java-collections-list-operacoes-livro/java-collections-list-operacoes-livro.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collections-list-ordenacao/java-collections-list-ordenacao.iml" filepath="$PROJECT_DIR$/java-collections-list-ordenacao/java-collections-list-ordenacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collections-livro/java-collections-livro.iml" filepath="$PROJECT_DIR$/java-collections-livro/java-collections-livro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collections-map/java-collections-map.iml" filepath="$PROJECT_DIR$/java-collections-map/java-collections-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collections-map-ordenacao/java-collections-map-ordenacao.iml" filepath="$PROJECT_DIR$/java-collections-map-ordenacao/java-collections-map-ordenacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collections-map-pesquisa/java-collections-map-pesquisa.iml" filepath="$PROJECT_DIR$/java-collections-map-pesquisa/java-collections-map-pesquisa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collections-set/java-collections-set.iml" filepath="$PROJECT_DIR$/java-collections-set/java-collections-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collections-set-ordenacao/java-collections-set-ordenacao.iml" filepath="$PROJECT_DIR$/java-collections-set-ordenacao/java-collections-set-ordenacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collections-set-pesquisa/java-collections-set-pesquisa.iml" filepath="$PROJECT_DIR$/java-collections-set-pesquisa/java-collections-set-pesquisa.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-dio.iml" filepath="$PROJECT_DIR$/.idea/java-dio.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-pilares-abstracao/java-pilares-abstracao.iml" filepath="$PROJECT_DIR$/java-pilares-abstracao/java-pilares-abstracao.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-pilares-encapsulamento/java-pilares-encapsulamento.iml" filepath="$PROJECT_DIR$/java-pilares-encapsulamento/java-pilares-encapsulamento.iml" />
