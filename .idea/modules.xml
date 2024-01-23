@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-pilares-interface/java-pilares-interface.iml" filepath="$PROJECT_DIR$/java-pilares-interface/java-pilares-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-pilares-polimorfismo/java-pilares-polimorfismo.iml" filepath="$PROJECT_DIR$/java-pilares-polimorfismo/java-pilares-polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-pilares-poo/java-pilares-poo.iml" filepath="$PROJECT_DIR$/java-pilares-poo/java-pilares-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-steamAPI/java-steamAPI.iml" filepath="$PROJECT_DIR$/java-steamAPI/java-steamAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-um/java-um.iml" filepath="$PROJECT_DIR$/java-um/java-um.iml" />
     </modules>
   </component>
