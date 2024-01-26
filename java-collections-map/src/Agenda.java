@@ -34,12 +34,10 @@ public class Agenda {
     public static void main(String[] args) {
         Agenda agenda = new Agenda();
 
-
         agenda.setContatosMap("www",123);
         agenda.setContatosMap("awww",124);
         agenda.setContatosMap("www",128);
         agenda.setContatosMap("cwww",127);
-
 
         agenda.exibirContato();
         agenda.removerContatos("www");
