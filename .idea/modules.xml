@@ -12,6 +12,11 @@
       <module fileurl="file://$PROJECT_DIR$/java-collections-set/java-collections-set.iml" filepath="$PROJECT_DIR$/java-collections-set/java-collections-set.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collections-set-ordenacao/java-collections-set-ordenacao.iml" filepath="$PROJECT_DIR$/java-collections-set-ordenacao/java-collections-set-ordenacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collections-set-pesquisa/java-collections-set-pesquisa.iml" filepath="$PROJECT_DIR$/java-collections-set-pesquisa/java-collections-set-pesquisa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-pattern-addapter/java-design-pattern-addapter.iml" filepath="$PROJECT_DIR$/java-design-pattern-addapter/java-design-pattern-addapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns-builder/java-design-patterns-builder.iml" filepath="$PROJECT_DIR$/java-design-patterns-builder/java-design-patterns-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns-factory-method/java-design-patterns-factory-method.iml" filepath="$PROJECT_DIR$/java-design-patterns-factory-method/java-design-patterns-factory-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns-prototype/java-design-patterns-prototype.iml" filepath="$PROJECT_DIR$/java-design-patterns-prototype/java-design-patterns-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns-singleton/java-design-patterns-singleton.iml" filepath="$PROJECT_DIR$/java-design-patterns-singleton/java-design-patterns-singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-dio.iml" filepath="$PROJECT_DIR$/.idea/java-dio.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-excecoes/java-excecoes.iml" filepath="$PROJECT_DIR$/java-excecoes/java-excecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-exercicios-casting/java-exercicios-casting.iml" filepath="$PROJECT_DIR$/java-exercicios-casting/java-exercicios-casting.iml" />
